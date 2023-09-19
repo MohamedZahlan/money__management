@@ -2,7 +2,11 @@
 
 A new Flutter project allow the user to managing his money.
 
-## Getting Started
+## Get
+
+https://github.com/MohamedZahlan/money__management/assets/102684307/56643c2c-47d5-42c1-9941-08198c33b5f7
+
+ting Started
 
 This project is a starting point for a Flutter application.
 
